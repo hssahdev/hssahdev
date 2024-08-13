@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am pursuing Master's in Computer Science at Arizona State University, and am aspiring to build meaningful products. Prior to my masters degree I was working as a Software Engineer at <img src="https://s27.q4cdn.com/708721433/files/design/e-logo.svg" height="12px" alt=""> Expedia Group. I am passionate about technology and beleive it can simplify our lives and help us humans focus on much bigger problems.
+  <samp>I am working as SDE at an AI startup after my Master's in Computer Science at Arizona State University, and am aspiring to build meaningful products. Prior to my masters degree I was working as a Software Engineer at <img src="https://s27.q4cdn.com/708721433/files/design/e-logo.svg" height="12px" alt=""> Expedia Group. I am passionate about technology and beleive it can simplify our lives and help us humans focus on much bigger problems.
   </samp>
   <br> <br>
 </p>
